@@ -10,11 +10,7 @@
         "url": "https://github.com/dimapasko/dimapasko.github.io.git"
     },
     "private": true,
-    "dependencies": {
-        "reveal.js": "^3.7.0"
-    },
-    "devDependencies": {
-        "eslint": "^5.2.0"
-    },
+    "dependencies": {},
+    "devDependencies": {},
     "scripts": {}
 }
